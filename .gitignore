@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 # 2023.03.20
@@ -69,6 +70,8 @@ local.properties
 .sts4-cache/
 
 ### Java ###
+=======
+>>>>>>> parent of 772c49c (Update .gitignore)
 # Compiled class file
 *.class
 
@@ -92,6 +95,3 @@ local.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
-
-# End of https://www.toptal.com/developers/gitignore/api/java,eclipse
